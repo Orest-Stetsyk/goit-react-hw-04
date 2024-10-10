@@ -1,0 +1,12 @@
+.container {
+    width: 1200px;
+    height: 650px;
+    margin: 5% auto;
+}
+
+.img {
+
+    width: 1080px;
+    height: 800px;
+    object-fit: cover;
+}

@@ -1,0 +1,12 @@
+.btn {
+    display: flex;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 16px;
+    margin: 0 auto 50px;
+
+    background-color: blue;
+    color: #fff;
+    font-size: 24px;
+}
